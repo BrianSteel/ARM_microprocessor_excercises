@@ -1,7 +1,5 @@
 # ARM Microprocessor Experiments
 
-Bare-metal C exercises on the STM32F446RE (NUCLEO-F446RE) using Keil uVision. No HAL — registers only. Everything is configured by directly writing to hardware registers, no libraries doing the heavy lifting.
-
 <img src="microcontroller unit schematic.png" width="400"/>
 <img src="pin_look_up.JPG" width="400"/>
 
@@ -23,4 +21,4 @@ Bare-metal C exercises on the STM32F446RE (NUCLEO-F446RE) using Keil uVision. No
 
 ## Board
 
-NUCLEO-F446RE — STM32F446RETx, Cortex-M4 @ 180 MHz. Pin mapping follows the Arduino/Morpho header layout shown above.
+NUCLEO-F446RE — STM32F446RETx, Cortex-M4 @ 180 MHz.
